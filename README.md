@@ -27,7 +27,7 @@
 <h2 dir="rtl" align="right">&#x1f680; &#x062a;&#x062d;&#x0645;&#x064a;&#x0644; &#x0627;&#x0644;&#x062a;&#x0637;&#x0628;&#x064a;&#x0642;</h2>
 
 <div align="center">
-  <a href="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x67;&#x69;&#x74;&#x68;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;&#x2f;&#x42;&#x41;&#x53;&#x48;&#x41;&#x52;&#x49;&#x50;&#x2f;&#x56;&#x50;&#x48;&#x4f;&#x4e;&#x45;&#x4f;&#x53;&#x2f;&#x72;&#x65;&#x6c;&#x65;&#x61;&#x73;&#x65;&#x73;&#x2f;&#x64;&#x6f;&#x77;&#x6e;&#x6c;&#x6f;&#x61;&#x64;&#x2f;&#x7 v1.0/VPHONEOS.apk">
+  <a href="https://github.com/BASHARIP/VPHONEOS/releases/download/v1.0/VPHONEOS.apk">
     <img src="https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-VPHONEOS%20APK-brightgreen?style=for-the-badge&logo=android" alt="&#x062a;&#x062d;&#x0645;&#x064a;&#x0644;">
   </a>
 </div>
