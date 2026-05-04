@@ -22,7 +22,7 @@
 ## 🚀 تحميل التطبيق
 
 <div align="center">
-  <a href="[https://github.com/MODBASHA/VPHONEOS/releases](https://github.com/BASHARIP/VPHONEOS/releases/download/v1.0/default.apk)">
+  <a href="https://github.com/BASHARIP/VPHONEOS/releases/download/v1.0/default.apk">
     <img src="https://img.shields.io/badge/تحميل-VPHONEOS%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download VPHONEOS">
   </a>
 </div>
