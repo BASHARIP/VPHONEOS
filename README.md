@@ -1,19 +1,19 @@
 <h1 align="center">&#x23;&#x20;&#xff36;&#xff30;&#xff28;&#xff2f;&#xff2e;&#xff25;&#xff2f;&#xff33;&#x20;&#x1f4f1;</h1>
 
 <div align="center"> 
-  <a href="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x67;&#x69;&#x74;&#x2e;&#x69;&#x6f;&#x2f;&#x74;&#x79;&#x70;&#x69;&#x6e;&#x67;&#x2d;&#x73;&#x76;&#x67;"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=00FFAA&center=true&width=910&height=100&lines=VPHONEOS+Account+Manager;Manage+All+Your+Accounts;Secure+%26+Fast;By+MOD+BASHA" alt="&#x56;&#x50;&#x48;&#x4f;&#x4e;&#x45;&#x4f;&#x53;" />
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=00FFAA&center=true&width=910&height=100&lines=VPHONEOS+Account+Manager;Manage+All+Your+Accounts;Secure+%26+Fast;By+MOD+BASHA" alt="VPHONEOS" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <img src="https://files.catbox.moe/869nps.png" alt="&#x42;&#x61;&#x6e;&#x6e;&#x65;&#x72;" width="600"> 
+  <img src="https://files.catbox.moe/869nps.png" alt="Banner" width="600"> 
 </div>
 
 ---
 
 <p dir="rtl" align="center">
-<b>&#x56;&#x50;&#x48;&#x4f;&#x4e;&#x45;&#x4f;&#x53;</b> &#x0647;&#x0648; &#x062a;&#x0637;&#x0628;&#x064a;&#x0642; &#x0645;&#x062a;&#x062e;&#x0635;&#x0635; &#x0644;&#x0625;&#x062f;&#x0627;&#x0631;&#x0629; &#x0648;&#x0631;&#x0641;&#x0639; &#x062d;&#x0633;&#x0627;&#x0628;&#x0627;&#x062a;&#x0643; &#x0627;&#x0644;&#x0645;&#x062a;&#x0639;&#x062f;&#x062f;&#x0629; &#x0628;&#x0643;&#x0644; &#x0633;&#x0647;&#x0648;&#x0644;&#x0629; &#x0648;&#x0623;&#x0645;&#x0627;&#x0646;&#x002e; &#x0635;&#x0645;&#x0645; &#x062e;&#x0635;&#x064a;&#x0635;&#x0627;&#x064b; &#x0644;&#x064a;&#x0648;&#x0627;&#x0643;&#x0628; &#x0627;&#x062d;&#x062a;&#x064a;&#x0627;&#x062c;&#x0627;&#x062c; &#x0627;&#x0644;&#x0645;&#x0633;&#x062a;&#x062e;&#x062f;&#x0645;&#x064a;&#x0646; &#x0627;&#x0644;&#x0645;&#x062d;&#x062a;&#x0631;&#x0641;&#x064a;&#x0646;&#x002c; &#x0645;&#x0639; &#x0648;&#x0627;&#x062c;&#x0647;&#x0629; &#x0633;&#x0631;&#x064a;&#x0639;&#x0629; &#x0648;&#x0628;&#x0633;&#x064a;&#x0637;&#x0629;&#x002e;
+<b>&#x56;&#x50;&#x48;&#x4f;&#x4e;&#x45;&#x4f;&#x53;</b> &#x0647;&#x0648; &#x062a;&#x0637;&#x0628;&#x064a;&#x0642; &#x0645;&#x062a;&#x062e;&#x0635;&#x0635; &#x0644;&#x0625;&#x062f;&#x0627;&#x0631;&#x0629; &#x0648;&#x0631;&#x0641;&#x0639; &#x062d;&#x0633;&#x0627;&#x0628;&#x0627;&#x062a;&#x0643; &#x0627;&#x0644;&#x0645;&#x062a;&#x0639;&#x062f;&#x062f;&#x0629; &#x0628;&#x0643;&#x0644; &#x0633;&#x0647;&#x0648;&#x0644;&#x0629; &#x0648;&#x0623;&#x0645;&#x0627;&#x0646;&#x002e; &#x0635;&#x0645;&#x0645; &#x062e;&#x0635;&#x064a;&#x0635;&#x0627;&#x064b; &#x0644;&#x064a;&#x0648;&#x0627;&#x0643;&#x0628; &#x0627;&#x062d;&#x062a;&#x064a;&#x0627;&#x062c;&#x0627;&#x062a; &#x0627;&#x0644;&#x0645;&#x0633;&#x062a;&#x062e;&#x062f;&#x0645;&#x064a;&#x0646; &#x0627;&#x0644;&#x0645;&#x062d;&#x062a;&#x0631;&#x0641;&#x064a;&#x0646;&#x002c; &#x0645;&#x0639; &#x0648;&#x0627;&#x062c;&#x0647;&#x0629; &#x0633;&#x0631;&#x064a;&#x0639;&#x0629; &#x0648;&#x0628;&#x0633;&#x064a;&#x0637;&#x0629;&#x002e;
 </p>
 
 <p dir="rtl" align="center">
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/BASHARIP/VPHONEOS/releases/download/v1.0/VPHONEOS.apk">
-    <img src="https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-VPHONEOS%20APK-brightgreen?style=for-the-badge&logo=android" alt="&#x062a;&#x062d;&#x0645;&#x064a;&#x0644;">
+    <img src="https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-VPHONEOS%20APK-brightgreen?style=for-the-badge&logo=android" alt="تحميل">
   </a>
 </div>
 
@@ -60,11 +60,11 @@
 <h2 dir="rtl" align="right">&#x1f465; &#x062a;&#x0648;&#x0627;&#x0635;&#x0644; &#x0645;&#x0639;&#x0646;&#x0627;</h2>
 
 <div align="center">
-  <a href="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x74;&#x2e;&#x6d;&#x65;&#x2f;&#x4d;&#x4f;&#x44;&#x42;&#x41;&#x53;&#x48;&#x41;">
-    <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x69;&#x6d;&#x67;&#x2e;&#x73;&#x68;&#x69;&#x65;&#x6c;&#x64;&#x73;&#x2e;&#x69;&#x6f;&#x2f;&#x62;&#x61;&#x64;&#x67;&#x65;&#x2f;&#x54;&#x65;&#x6c;&#x65;&#x67;&#x72;&#x61;&#x6d;&#x2d;&#x4d;&#x4f;&#x44;&#x25;&#x32;&#x30;&#x42;&#x41;&#x53;&#x48;&#x41;&#x2d;&#x30;&#x30;&#x37;&#x38;&#x45;&#x37;&#x3f;&#x73;&#x74;&#x79;&#x6c;&#x65;&#x3d;&#x66;&#x6f;&#x72;&#x2d;&#x74;&#x68;&#x65;&#x2d;&#x62;&#x61;&#x64;&#x67;&#x65;&#x26;&#x6c;&#x6f;&#x67;&#x6f;&#x3d;&#x74;&#x65;&#x6c;&#x65;&#x67;&#x72;&#x61;&#x6d;">
+  <a href="https://t.me/MODBASHA">
+    <img src="https://img.shields.io/badge/Telegram-MOD%20BASHA-0078E7?style=for-the-badge&logo=telegram">
   </a>
-  <a href="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x77;&#x68;&#x61;&#x74;&#x73;&#x61;&#x70;&#x70;&#x2e;&#x63;&#x6f;&#x6d;&#x2f;&#x63;&#x68;&#x61;&#x6e;&#x6e;&#x65;&#x6c;&#x2f;&#x30;&#x30;&#x32;&#x39;&#x56;&#x62;&#x37;&#x79;&#x64;&#x79;&#x54;&#x39;&#x47;&#x76;&#x37;&#x56;&#x67;&#x52;&#x79;&#x54;&#x79;&#x47;&#x30;&#x55;">
-    <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x69;&#x6d;&#x67;&#x2e;&#x73;&#x68;&#x69;&#x65;&#x6c;&#x64;&#x73;&#x2e;&#x69;&#x6f;&#x2f;&#x62;&#x61;&#x64;&#x67;&#x65;&#x2f;&#x57;&#x68;&#x61;&#x74;&#x73;&#x41;&#x70;&#x70;&#x2d;&#x43;&#x68;&#x61;&#x6e;&#x6e;&#x65;&#x6c;&#x2d;&#x32;&#x35;&#x44;&#x33;&#x36;&#x36;&#x3f;&#x73;&#x74;&#x79;&#x6c;&#x65;&#x3d;&#x66;&#x6f;&#x72;&#x2d;&#x74;&#x68;&#x65;&#x2d;&#x62;&#x61;&#x64;&#x67;&#x65;&#x26;&#x6c;&#x6f;&#x67;&#x6f;&#x3d;&#x77;&#x68;&#x61;&#x74;&#x73;&#x61;&#x70;&#x70;">
+  <a href="https://whatsapp.com/channel/0029Vb7ydyT9Gv7VgRyTyG0U">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp">
   </a>
 </div>
 
